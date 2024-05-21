@@ -1,5 +1,5 @@
 # CSA work
-##ap csa -FDR highschool 
+## ap csa -FDR highschool 
 
-###In this repository;
+### In this repository;
 - My Solutions to 2024 response questions 
